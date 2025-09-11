@@ -12,4 +12,4 @@ Deepseek-r1:7b #ocupa 4,7 GB
 
 Ver vídeo:
 
-Alt text
+[![Alt text](https://img.youtube.com/vi/DEcP4bkvHG4/0.jpg)](https://www.youtube.com/watch?v=DEcP4bkvHG4)
