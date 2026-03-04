@@ -7,7 +7,7 @@ Algunos de los modelos que utilizo:
 
 Gpt-oss:20B #ocupa 14 GB
 
-Deepseek-r1:7b #ocupa 4,7 GB
+Deepseek-v2:16b: #ocupa 8,9 GB
 
 
 Ver vídeo:
