@@ -3,11 +3,11 @@ Ver en "http://localhost:3000"
 
 Librería de modelos: https://ollama.com/library
 
-Algunos de los modelos que utilizo:
+Vas a tener que correr este comando cada vez que necesites un modelo nuevo:
 
-Gpt-oss:20B #ocupa 14 GB
+docker exec ollama ollama pull gpt-oss:20b #ocupa 14 GB
 
-Deepseek-v2:16b: #ocupa 8,9 GB
+docker exec ollama ollama pull deepseek-v2:16b #ocupa 8,9 GB
 
 
 Ver vídeo:
